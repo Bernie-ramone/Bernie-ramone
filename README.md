@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header-math.svg" alt="Hi, I'm Bernie Ramone - .NET Developer" width="100%" />
+  <img src="assets/header-rings-bg.svg" alt="Hi, I'm Bernie Ramone - .NET Developer" width="100%" />
 </div>
 
 ### 👋 About me
